@@ -20,4 +20,6 @@ This is a rough description of how it works:
 
 Requires unimidi (as a gem) and RubyHue (attached with minor modifications).
 
-Read more about it on the ustwo blog.
+Read more about it on the ustwo blog:
+
+http://www.ustwo.co.uk/blog/midi-controller-to-philips-hue/
